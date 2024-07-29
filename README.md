@@ -1,4 +1,4 @@
-Practice for implementing React components, props, useStae 
+Practice for implementing React Components, Props and UseState 
 
 
 
