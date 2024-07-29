@@ -1,4 +1,4 @@
-TaskBoard application developed for practice React components, props and useState.
+TaskBoard application developed for practice components, props and useState.
 
 
 ![image](https://github.com/user-attachments/assets/50423dd8-441d-4dab-be73-695d39195ee7)
